@@ -1,0 +1,4 @@
+fov.usage=/fov (float value, reset) [selector] \n reset - Cancellation of changes until the next change
+fov.exc=Invalid fov type
+fov.selector=You has invalid value (fov 56 - default)
+fov.player=The sender is not a player. Add a selector to select a player.

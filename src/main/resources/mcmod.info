@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "fov_changer",
+    "name": "fovchanger",
+    "description": "mod for change fov to players. Sponsored by OtakuGamer",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://evanechecssss.github.io",
+    "updateUrl": "",
+    "authorList": [
+      "Evanechecssss"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
